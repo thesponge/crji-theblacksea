@@ -34,17 +34,23 @@
 </div>
 <header>
     <div class="container">
-        <div class="crji-logo">
+        <div id="crji-logo">
             <img src="css/img/crji.png" alt="CRJI"/>
-        </div>
-        <div class="info">
-            <p>Your Foreign Investigative Desk for hire: <br/>
-            reporting, pictures & code.</p>
-            <p>crji@theblacksea.eu <br/>
-            T: +40 740 309 073</p>
+            <div class="info">
+                <p>Your Foreign Investigative Desk for hire: <br/>
+                    reporting, pictures & code.</p>
+                <p>crji@theblacksea.eu <br/>
+                    T: +40 740 309 073</p>
+            </div>
         </div>
         <div id="header-text">
-            <p></p>
+            <p>
+                The Romanian Center for Investigative Journalism's mission is to
+                deconstruct and expose corrupt structures of power and to create an
+                interdisciplinary community of collectors and disseminators of relevant
+                and verifiable information. We alternate investigative journalism with
+                recording the color of daily life.
+            </p>
         </div>
     </div>
 </header>

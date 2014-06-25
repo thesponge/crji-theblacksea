@@ -100,13 +100,30 @@ header>div.container {
     margin: 0px auto;
 }
 
-header>div.container>div.info {
+header>div.container div.info {
     color: #FFF;
     font-size: 1.1em;
 }
 
-header>div.container>div.info>p {
+header>div.container div.info>p {
     padding-top: 20px;
+}
+
+header>div.container div#crji-logo {
+    width: 300px;
+    display: inline-block;
+    display: table-cell;
+}
+header>div.container div#header-text {
+    width: 750px;
+    display: table-cell;
+    vertical-align: middle;
+}
+header>div.container div#header-text>p {
+    width: auto;
+    padding: 10px;
+    font-size: 1.8em;
+    color: #FFF;
 }
 
 div.container {
