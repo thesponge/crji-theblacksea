@@ -13,6 +13,10 @@ hr.dash {
     margin: 10px 0px;
 }
 
+div.clearfix {
+    clear: both;
+}
+
 div#topbar-wrapper {
     height: 40px;
     width: 100%;
@@ -158,6 +162,7 @@ main>section:first-child {
 main>section:first-child article{
     padding-top: 10px;
     padding-bottom: 10px;
+    font-family: 'skolar';
 }
 
 main>section:first-child article:last-child > h1{
@@ -178,6 +183,9 @@ main>section:last-child {
 
 main>section:last-child article{
     position: relative;
+    display: block;
+    width: 100%;
+    height: 560px;
 }
 main>section:last-child article img{
     position: absolute;
@@ -190,13 +198,21 @@ main>section:last-child article .img-overlay{
     padding-left: 20px;
     width: 780px;
     height: 513px;
-    /*opacity: 0;*/
+    opacity: 0;
+}
+main>section:last-child article .img-overlay:hover {
+    opacity: 1;
 }
 main>section:last-child article .img-overlay>h1{
     color: #fff02d;
     font-style: oblique;
+    font-family: serif;
+    font-weight: normal;
+    font-family: 'skolar';
+    font-size: 1.8em;
 }
 main>section:last-child article .img-overlay>p{
+    font-family: 'skolar';
     color: #fff;
 }
 main>section:last-child article .img-overlay>span.copyright{

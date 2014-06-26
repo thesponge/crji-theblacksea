@@ -13,7 +13,7 @@
         );
         head.load(
             "js/jquery-1.11.0.min.js"
-//            ,"//use.typekit.net/dqe0pjz.js"
+            ,"//use.typekit.net/dqe0pjz.js"
         );
     </script>
 </head>
@@ -143,17 +143,23 @@
         </article>
     </section>
     <section>
+        <?php
+        $testimonials = json_decode(file_get_contents('testimonials/testimonials.json'));
+        $images = array_slice(scandir('images'), 2);
+        shuffle($images) && shuffle($testimonials);
+        $i = 0;
+        foreach (array_slice($images, 0, 8) as $image):
+        ?>
         <article>
-            <img src="images/1.jpg" alt="1"/>
+            <img src="images/<?= $image ?>" alt="1"/>
             <div class="img-overlay">
-                <h1>CRJI has produced some of the finest and smartes investigative
-                journalists currently working in Europe.</h1>
+                <h1><?= $testimonials[$i]->quote ?></h1>
                 <hr class="dash"/>
-                <p>Duncan Campbell, UK, ICIJ, investigative journalist, author
-                    specialized in privacy, civil liberties and surveillance issues.</p>
+                <p><?= $testimonials[$i]->person ?></p>
                 <span class="copyright">© Petruț Călinescu</span>
             </div>
         </article>
+        <?php $i++; endforeach; ?>
     </section>
 </main>
 <footer>
