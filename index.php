@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8"/>
-    <title>CRJI :: A work in progress page</title>
+    <title>CRJI :: The Black Sea</title>
 
     <script src="js/head.js"></script>
     <script>
