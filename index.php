@@ -25,9 +25,9 @@
                 &nbsp; <span class="blue"> Diving Deep into Stories</span>
             </div>
             <ul class="mainNav">
-                <li><a href="#">archive</a></li>
-                <li><a href="#">blog</a></li>
-                <li><a href="#">about</a></li>
+                <li><a href="http://theblacksea.eu/?idT=86&idC=86">blog</a></li>
+                <li><a href="http://theblacksea.eu/?idT=88&idC=88">stories</a></li>
+                <li><a href="http://theblacksea.eu/?idT=3&idC=3">about</a></li>
             </ul>
         </div>
     </div>
