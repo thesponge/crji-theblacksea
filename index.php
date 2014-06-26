@@ -8,11 +8,12 @@
     <script>
         head.load(
             "css/reset.css",
+            "css/typekit.css",
             "css/style.css"
         );
         head.load(
-            "js/code.jquery.com/jquery-1.11.0.min.js"
-//            ,"js/use.typekit.net/dqe0pjz.js"
+            "js/jquery-1.11.0.min.js"
+//            ,"//use.typekit.net/dqe0pjz.js"
         );
     </script>
 </head>
@@ -143,7 +144,15 @@
     </section>
     <section>
         <article>
-            <!-- <img src="images/1.jpg" alt="1"/> -->
+            <img src="images/1.jpg" alt="1"/>
+            <div class="img-overlay">
+                <h1>CRJI has produced some of the finest and smartes investigative
+                journalists currently working in Europe.</h1>
+                <hr class="dash"/>
+                <p>Duncan Campbell, UK, ICIJ, investigative journalist, author
+                    specialized in privacy, civil liberties and surveillance issues.</p>
+                <span class="copyright">© Petruț Călinescu</span>
+            </div>
         </article>
     </section>
 </main>

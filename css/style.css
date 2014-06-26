@@ -99,7 +99,7 @@ ul {display: block;list-style-type: none;margin:0; -webkit-padding-start: 0; pad
 
 header {
     border-top: 10px #292929 solid;
-    height: 180px;
+    height: 190px;
     background-color: #373737;
     padding-top: 10px;
 }
@@ -111,7 +111,8 @@ header>div.container {
 
 header>div.container div.info {
     color: #FFF;
-    font-size: 1.1em;
+    font-size: 1.3em;
+    font-family: "futura-pt";
 }
 
 header>div.container div.info>p {
@@ -131,6 +132,8 @@ header>div.container div#header-text {
 header>div.container div#header-text>p {
     width: auto;
     padding: 10px;
+    font-family: "futura-pt";
+    font-weight: 100 !important;
     font-size: 1.8em;
     color: #FFF;
 }
@@ -146,7 +149,7 @@ main {
 
 main>section:first-child {
     width: 280px;
-    padding: 10px;
+    padding: 10px 10px 0px 0px;
     display: table-cell;
     vertical-align: top;
     min-height: 300px;
@@ -171,4 +174,33 @@ main>section:last-child {
     vertical-align: top;
     min-height: 300px;
     /*outline: 1px solid pink;*/
+}
+
+main>section:last-child article{
+    position: relative;
+}
+main>section:last-child article img{
+    position: absolute;
+}
+main>section:last-child article .img-overlay{
+    position: absolute;
+    background-color: rgba(0,0,0,.7);
+    border-top: 10px solid rgba(0,0,0,.3);
+    padding-top: 10px;
+    padding-left: 20px;
+    width: 780px;
+    height: 513px;
+    /*opacity: 0;*/
+}
+main>section:last-child article .img-overlay>h1{
+    color: #fff02d;
+    font-style: oblique;
+}
+main>section:last-child article .img-overlay>p{
+    color: #fff;
+}
+main>section:last-child article .img-overlay>span.copyright{
+    position: absolute;
+    bottom: -20px;
+    left: 0px;
 }
