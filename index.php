@@ -21,7 +21,7 @@
     <div id="topbar">
         <div class="block overflow">
             <div class="logo">
-                <a href="/">The Black Sea </a>
+                <a href="http://theblacksea.eu">The Black Sea </a>
                 &nbsp; <span class="blue"> Diving Deep into Stories</span>
             </div>
             <ul class="mainNav">
