@@ -164,6 +164,9 @@ main>section:first-child article{
     padding-bottom: 10px;
     font-family: 'skolar';
 }
+main>section:first-child article {
+    font-size: 1.1em;
+}
 
 main>section:first-child article:last-child > h1{
     padding-bottom: 10px;
