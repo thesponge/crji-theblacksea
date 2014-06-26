@@ -135,10 +135,10 @@ header>div.container div#header-text {
 }
 header>div.container div#header-text>p {
     width: auto;
-    padding: 10px;
+    padding-left: 10px;
     font-family: "futura-pt";
     font-weight: 100 !important;
-    font-size: 1.8em;
+    font-size: 2.15em;
     color: #FFF;
 }
 
@@ -209,7 +209,7 @@ main>section:last-child article .img-overlay>h1{
     font-family: serif;
     font-weight: normal;
     font-family: 'skolar';
-    font-size: 2.2em;
+    font-size: 2.4em;
 }
 main>section:last-child article .img-overlay>p{
     font-family: 'skolar';
