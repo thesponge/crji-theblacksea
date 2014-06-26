@@ -36,7 +36,9 @@
 <header>
     <div class="container">
         <div id="crji-logo">
-            <img src="css/img/crji.png" alt="CRJI"/>
+            <a href="http://crji.org">
+                <img src="css/img/crji.png" alt="CRJI"/>
+            </a>
             <div class="info">
                 <p>Your Foreign Investigative Desk for hire: <br/>
                     reporting, pictures & code.</p>
@@ -176,7 +178,7 @@
     </section>
 </main>
 <footer>
-    <div class="container"></div>
+    <div class="footer-top"></div>
 </footer>
 
 
