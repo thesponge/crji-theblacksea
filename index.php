@@ -171,7 +171,7 @@
                 <h1><?= $testimonials[$i]->quote ?></h1>
                 <hr class="dash"/>
                 <p><?= $testimonials[$i]->person ?></p>
-                <span class="copyright">© Petruț Călinescu</span>
+                <span class="copyright">© Petrut Calinescu</span>
             </div>
         </article>
         <?php $i++; endforeach; ?>

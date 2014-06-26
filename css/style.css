@@ -1,3 +1,5 @@
+@font-face { font-family: Unibody; src: url('Unibody%208-Regular.otf'); }
+
 a {border-bottom: 1px dotted #666;text-decoration: none; color:#333;}
 a:visited {color:#000;}
 a:hover {border-bottom:none;text-decoration: none;color:#333;}
@@ -222,6 +224,8 @@ main>section:last-child article .img-overlay>span.copyright{
     position: absolute;
     bottom: -20px;
     left: 0px;
+    font-family: Unibody;
+    font-size: .7em;
 }
 
 footer {
