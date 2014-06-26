@@ -130,6 +130,9 @@ header>div.container div#crji-logo {
     display: inline-block;
     display: table-cell;
 }
+header>div.container div#crji-logo a {
+    border: 0px solid black !important;
+}
 header>div.container div#header-text {
     width: 750px;
     display: table-cell;
