@@ -123,22 +123,35 @@
         <article>
             <h1>Awards</h1>
             <p>
-                In 2014 we were shortlisted for the Innovation
-                Award at the Euwopean Press Prize.
+                In 2014 we were shortlisted for the
+                <a href="http://www.europeanpressprize.com/winners/shortlist-2013/">
+                Innovation Award at the Euwopean Press Prize</a>.
             </p>
             <p>
                 We are part of the team winning a few awards on
-                the ICIJ "Offshore Leaks" project: IRE and
-                Scripps Howard.
+                the ICIJ "Offshore Leaks" project:
+                <a href="http://ire.org/awards/ire-awards/winners/2013-ire-award-winners/#.Uz--JMd4zR0">
+                IRE</a> and
+                <a href="http://www.shawards.org/default.aspx">
+                Scripps Howard</a>.
             </p>
             <p>
-                Our members also won in the past: IRE Tom
-                Renner, Overseas Press Club, Daniel Pearl
-                Award, Global Shining Light Award.
+                Our members also won in the past:
+                <a href="http://www.ire.org/blog/ire-news/2009/03/31/2008-ire-award-winners-announced/">
+                IRE Tom Renner</a>,
+                <a href="https://www.opcofamerica.org/awards/2008-opc-award-winners">
+                Overseas Press Club</a>,
+                <a href="http://www.icij.org/awards#w2011">
+                Daniel Pearl Award</a>,
+                <a href="http://gijn.org/2011/04/04/gijn-awards-top-investigators/">
+                Global Shining Light Award</a>.
             </p>
             <p>
-                Fellowships: Nieman Fellowship at Harvard and
-                Knight Journalism Fellowship at Stanford.
+                Fellowships:
+                <a href="http://www.nieman.harvard.edu/Microsites/2010AnnualReport/ClassOf2011.aspx">
+                Nieman Fellowship at Harvard</a> and
+                <a href="http://knight.stanford.edu/fellows/class-of-2010/">
+                Knight Journalism Fellowship at Stanford</a>.
             </p>
         </article>
     </section>
