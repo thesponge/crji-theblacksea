@@ -56,11 +56,96 @@
 </header>
 <main>
     <section>
-        <article></article>
-        <article></article>
-        <article></article>
+        <article>
+            <h1>Skills:</h1>
+            <p>
+                Research, photo journalism, fixing, native
+                English editing & translation, code laboratory,
+                information design, illustration, sound, video.
+            </p>
+        </article>
+        <article>
+            <h1>Areas of Reporting:</h1>
+            <p>
+                We cover the Black Sea Region through our
+                investigations as well as through
+                TheBlackSea.eu, our online magazine. We
+                experiment through TheSponge.eu, our open
+                media laboratory.
+            </p>
+        </article>
+        <article>
+            <h1>Outlets that have featured our work:</h1>
+            <p>
+                The Guardian, NY Times, Boston Globe,
+                Reuters, Toronto Star, ABC, CBC (CA), BBC,
+                Channel 4 (UK), ITV (UK), ZDF (DE), ARD
+                (DE), NRD (DE), Canal+, Vedomosti, Novaya
+                Gazeta (RU), Kyiv Post, Interview (ES),
+                Deutsche Welle, Sat 1 (DE), Die Zeit (DE),
+                Sueddeutsche Zeitung (DE), Panos Pictures
+                (UK), ICIJ, Politiken (DK), Le Soir (BE),
+                Nieman Reports, L’Espresso (IT), Spiegel TV
+                (DE), BIRN, OCCRP, Scoop, Eu Observer, Radio
+                Free Europe, 24chasa (BG), Center for
+                Investigative Reporting (HR), HETQ (AM),
+                Rustavi TV (GE), Ta Nea (GR), Berliner Gazette
+                (DE), Sunday Times (UK).
+            </p>
+        </article>
+        <hr class="dash"/>
+        <article>
+            <h1>Services and Solutions:</h1>
+        </article>
+        <article>
+            <h1>Story Production Assistance</h1>
+            <p>
+                Translation, breaking news reporting, photo,
+                video, multi-media work.
+            </p>
+        </article>
+        <article>
+            <h1>Research:</h1>
+            <p>
+                Governemnt, database manipulation,
+                Customized reporting.
+            </p>
+        </article>
+        <article>
+            <h1>Fee-Based Investigations:</h1>
+            <p>
+                Investigations on per-story basis, subscription
+                service for yearly stories.
+            </p>
+        </article>
+        <hr class="dash"/>
+        <article>
+            <h1>Awards</h1>
+            <p>
+                In 2014 we were shortlisted for the Innovation
+                Award at the Euwopean Press Prize.
+            </p>
+            <p>
+                We are part of the team winning a few awards on
+                the ICIJ "Offshore Leaks" project: IRE and
+                Scripps Howard.
+            </p>
+            <p>
+                Our members also won in the past: IRE Tom
+                Renner, Overseas Press Club, Daniel Pearl
+                Award, Global Shining Light Award.
+            </p>
+            <p>
+                Fellowships: Nieman Fellowship at Harvard and
+                Knight Journalism Fellowship at Stanford.
+            </p>
+        </article>
     </section>
-    <section></section>
+    <section>
+        <article>
+            <!-- <img src="images/1.jpg" alt="1"/> -->
+        </article>
+    </section>
 </main>
 <footer>
     <div class="container"></div>
